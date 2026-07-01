@@ -1,0 +1,3 @@
+C:/VSC/My project/build/CMakeFiles/gradebook.dir
+C:/VSC/My project/build/CMakeFiles/ALL_BUILD.dir
+C:/VSC/My project/build/CMakeFiles/ZERO_CHECK.dir
